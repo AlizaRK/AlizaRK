@@ -1,8 +1,8 @@
-# hey, I'm Aliza 👋
+# hey, I am Aliza 👋
 
 Backend and cloud engineer based in Frankfurt. Currently doing my MSc in High Integrity Systems at Frankfurt UAS while working as a Werkstudentin at reLi Energy — mostly on backend services, infrastructure, and whatever's broken that week.
 
-I'm particularly into building things that need to actually work: distributed systems, real-time protocols, infrastructure that doesn't fall over. Frankfurt's fintech scene is what I want to be part of next.
+I am particularly into building things that need to actually work: distributed systems, real-time protocols, infrastructure that doesn't fall over. 
 
 ---
 
@@ -12,7 +12,6 @@ I'm particularly into building things that need to actually work: distributed sy
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 
 **Backend & infra**
@@ -30,11 +29,12 @@ I'm particularly into building things that need to actually work: distributed sy
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
 
+and a little bit of IT-Networking stuff that my IT-security course taught me ;)
+
 ---
 
-## what I'm working on
+## what I am working on
 
-- **MSc thesis** — formal validation of communication protocols (Selective Repeat ARQ) across UML/MARTE, CPN, and UPPAAL
 - **Side projects** — rate limiting, real-time systems, things that involve queues and too many config files
 
 ---
@@ -44,8 +44,6 @@ I'm particularly into building things that need to actually work: distributed sy
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/alizark)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:your@email.com)
 
-📍 Frankfurt, Germany &nbsp;·&nbsp; 🇩🇪 A2 German (working on it) &nbsp;·&nbsp; 🇬🇧 C1 English
+📍 Frankfurt, Germany &nbsp;·&nbsp; 🇩🇪 A2 German (working on it, trust me it's hard :')) &nbsp;·&nbsp; 🇬🇧 C1 English
 
 ---
-
-*open to Werkstudent and entry-level backend / cloud / DevOps roles in Frankfurt or remote Germany*
