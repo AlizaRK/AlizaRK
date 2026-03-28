@@ -29,7 +29,7 @@ I am particularly into building things that need to actually work: distributed s
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
 
-and a little bit of IT-Networking stuff that my IT-security course taught me ;)
+and a little bit of IT-Networking stuff like site-to-site VPN set-up, etc. ;)
 
 ---
 
