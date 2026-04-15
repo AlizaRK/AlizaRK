@@ -1,4 +1,4 @@
-# hey, I am Aliza 👋
+# hi, I am Aliza 👋
 
 Backend and cloud engineer based in Frankfurt. Currently doing my MSc in High Integrity Systems at Frankfurt UAS while working as a Werkstudentin at reLi Energy — mostly on backend services, infrastructure, and whatever's broken that week.
 
@@ -44,6 +44,6 @@ and a little bit of IT-Networking stuff like site-to-site VPN set-up, etc. ;)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/alizark)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:your@email.com)
 
-📍 Frankfurt, Germany &nbsp;·&nbsp; 🇩🇪 A2 German (working on it, trust me it's hard :')) &nbsp;·&nbsp; 🇬🇧 C1 English
+📍 Frankfurt, Germany &nbsp;·&nbsp; 🇩🇪 B1.1 German (working on it, hopefully 6 hours a week classes will shortly bump this level ;)) &nbsp;·&nbsp; 🇬🇧 C1 English
 
 ---
