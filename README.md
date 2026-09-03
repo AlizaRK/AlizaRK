@@ -22,12 +22,14 @@ I am particularly into building things that need to actually work: distributed s
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
 
 **Observability**
 
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=flat&logo=datadog&logoColor=white)
 
 and a little bit of IT-Networking stuff like site-to-site VPN set-up, etc. ;)
 
@@ -44,6 +46,6 @@ and a little bit of IT-Networking stuff like site-to-site VPN set-up, etc. ;)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/alizark)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:your@email.com)
 
-📍 Frankfurt, Germany &nbsp;·&nbsp; 🇩🇪 B1.1 German (working on it, hopefully 6 hours a week classes will shortly bump this level ;)) &nbsp;·&nbsp; 🇬🇧 C1 English
+📍 Frankfurt, Germany &nbsp;·&nbsp; 🇩🇪 B1.2 German (working on it, hopefully 6 hours a week classes will shortly bump this level ;)) &nbsp;·&nbsp; 🇬🇧 C1 English
 
 ---
