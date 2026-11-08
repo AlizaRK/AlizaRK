@@ -1,8 +1,8 @@
 # hi, I am Aliza 👋
 
-Backend and cloud engineer based in Frankfurt. Currently doing my MSc in High Integrity Systems at Frankfurt UAS while working as a Werkstudentin at reLi Energy — mostly on backend services, infrastructure, and whatever's broken that week.
+Software engineer based in Frankfurt, currently pursuing an MSc in High Integrity Systems at Frankfurt UAS and working in investment technology at Allianz Global Investors.
 
-I am particularly into building things that need to actually work: distributed systems, real-time protocols, infrastructure that doesn't fall over. 
+I build backend services, automate data workflows, and work with cloud-native infrastructure. I'm particularly interested in distributed systems, reliability, real-time applications, and infrastructure that works in production.
 
 ---
 
@@ -42,11 +42,18 @@ and a little bit of IT-Networking stuff like site-to-site VPN set-up, etc. ;)
 
 ---
 
+## what I am interested in
+I am interested in designing and operating reliable, large-scale systems where engineering decisions have a real impact on the people and businesses depending on them.
+
+I enjoy working at the intersection of technical architecture and business requirements: understanding what clients actually need, translating those needs into practical solutions, and building infrastructure that can handle scale, complexity, and failure.
+
+I am particularly drawn to distributed systems, big data platforms, system reliability, and production engineering. I also value the operational side of engineering, including monitoring, incident response, root-cause analysis, and on-call responsibilities.
+
 ## find me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/alizark)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:aliza.khorasi@gmail.com)
 
-📍 Frankfurt, Germany &nbsp;·&nbsp; 🇩🇪 B1.2 German (working on it, hopefully 6 hours a week classes will shortly bump this level ;)) &nbsp;·&nbsp; 🇬🇧 C1 English
+📍 Frankfurt, Germany &nbsp;·&nbsp; 🇩🇪 B1.2 German (working on it, hopefully 6-hour-a-week classes will shortly bump this level ;)) &nbsp;·&nbsp; 🇬🇧 C1 English
 
 ---
